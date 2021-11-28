@@ -5,7 +5,7 @@
 </ul>
 
 <h2>Languages</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaIIIoK)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaIIIoK)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Statistics</h2>
 
